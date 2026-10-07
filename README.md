@@ -85,4 +85,4 @@ If a recent pandas version raises an error when calculating correlations with th
 ## Author
 
 **Vaibhav Mishra**  
-MSc Digital Finance & AI, Loughborough University London
+MSc Digital Finance & AI, 
