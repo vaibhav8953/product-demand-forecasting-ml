@@ -1,6 +1,6 @@
 # Product Demand Classification Using Machine Learning
 
-A Python project exploring retail inventory data and comparing machine learning models for classifying high and low product demand. Developed by **Vaibhav Mishra** as MSc coursework at Loughborough University London.
+A Python project exploring retail inventory data and comparing machine learning models for classifying high and low product demand. Developed by **Vaibhav Mishra**
 
 ## Project objective
 
